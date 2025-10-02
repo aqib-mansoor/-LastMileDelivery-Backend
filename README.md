@@ -72,12 +72,15 @@ cd LastMileDelivery-Backend
 2️⃣ Frontend
 
 npm install
+
 npm run dev
 
 
 3️⃣ Backend Setup
 
 composer install
+
 php artisan migrate
+
 php artisan serve
 
